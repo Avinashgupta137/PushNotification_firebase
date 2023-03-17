@@ -1,0 +1,6 @@
+framework module Pods_PushNotificationFireBase {
+  umbrella header "Pods-PushNotificationFireBase-umbrella.h"
+
+  export *
+  module * { export * }
+}
